@@ -65,7 +65,6 @@ sumo/threedee/compute_bbox.cpp
 sumo/threedee/glb_converter.cpp
 sumo/threedee/gltf.cpp
 sumo/threedee/gltf_model.cpp
-sumo/threedee/mesh.cpp
 sumo/threedee/model_sampler.cpp
 sumo/threedee/point_cloud.cpp
 sumo/threedee/point_cloud_ply.cpp
